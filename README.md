@@ -19,12 +19,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=chesterlicuanan.chesterlicuanan" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KeysoKesooo.KeysoKesooo" alt="profile views" />
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋 I'm Chester Licuanan</h1>
+<h1 align="center">Hey there 👋 I'm Chester Licuanan (KeysoKesooo)</h1>
 
 ###
 
@@ -33,8 +33,9 @@
 ###
 
 <p align="center">
-  Passionate about building practical, high-performance systems that solve real problems.  
-  Currently learning advanced backend development at <a href="https://www.boot.dev/u/frontsignature80" target="_blank">Boot.dev</a> 🚀  
+  Passionate about building practical, high-performance systems that solve real problems.<br>
+  Currently learning advanced backend development at 
+  <a href="https://www.boot.dev/u/frontsignature80" target="_blank">Boot.dev</a> 🚀<br>
   Focused on clean architecture, modern web frameworks, and scalable full-stack apps.
 </p>
 
@@ -42,7 +43,7 @@
 
 <h3 align="left">🧰 Languages & Tools</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -73,10 +74,10 @@
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chesterlicuanan&theme=tokyonight&hide_border=false&border_radius=5" height="200" />
+  <img src="https://streak-stats.demolab.com?user=KeysoKesooo&theme=tokyonight&hide_border=false&border_radius=5" height="200" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=chesterlicuanan&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chesterlicuanan&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeysoKesooo&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeysoKesooo&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 ---
@@ -95,6 +96,6 @@
 
 <h3 align="center">✨ Thanks for visiting my profile!</h3>
 <p align="center">
-  Always open to collaboration and learning opportunities.  
+  Always open to collaboration and learning opportunities.<br>
   💬 Let’s connect and build something cool together.
 </p>
