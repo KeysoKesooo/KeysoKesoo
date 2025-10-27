@@ -64,10 +64,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="TailwindCSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
+
 
 ---
 
@@ -86,11 +87,11 @@
 
 <div align="center">
   <a href="https://www.boot.dev/u/frontsignature80" target="_blank">
-    <img src="https://boot.dev/api/badges/user/frontsignature80/completion?theme=dark" height="140" alt="Boot.dev badge placeholder" />
   </a>
   <br />
-  <p><i>🔒 Profile locked until Level 10 — currently Level 6. Check back soon for full progress!</i></p>
+  <p><i>🔒 Profile locked until Level 10 — currently Level 6.</i></p>
 </div>
+
 
 ---
 
