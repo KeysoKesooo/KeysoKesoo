@@ -86,11 +86,10 @@
 <h3 align="left">🎓 Boot.dev Progress</h3>
 
 <div align="center">
-  <a href="https://www.boot.dev/u/frontsignature80" target="_blank">
-  </a>
-[![Boot.dev Profile](https://img.shields.io/badge/Boot.dev-Profile-blue?style=for-the-badge&logo=bootdotdev)](https://www.boot.dev/u/keysokesoo)
-
+  <!-- Badge-style profile card -->
+  [![Boot.dev Profile](https://img.shields.io/badge/Boot.dev-Profile-blue?style=for-the-badge&logo=bootdotdev)](https://www.boot.dev/u/keysokesoo)
 </div>
+
 
 
 ---
