@@ -88,8 +88,8 @@
 <div align="center">
   <a href="https://www.boot.dev/u/frontsignature80" target="_blank">
   </a>
-  <br />
-  <p><i>🔒 Profile locked until Level 10 — currently Level 6.</i></p>
+[![Boot.dev Profile](https://img.shields.io/badge/Boot.dev-Profile-blue?style=for-the-badge&logo=bootdotdev)](https://www.boot.dev/u/keysokesoo)
+
 </div>
 
 
